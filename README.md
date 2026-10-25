@@ -50,6 +50,6 @@ précise par CMake.
 
 ## Licence
 
-Aucune licence de réutilisation n’est encore définie. Avant une publication
-publique sur GitHub, ajouter une licence correspondant à tes choix (MIT,
-GPL-3.0, propriétaire, etc.).
+Ce projet est distribué sous une [licence propriétaire](LICENSE). Tous droits
+sont réservés à Valentin Leroux ; aucune copie, modification, redistribution
+ou exploitation n'est autorisée sans accord écrit préalable.
