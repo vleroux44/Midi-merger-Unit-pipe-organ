@@ -1,0 +1,4 @@
+# Do not attempt text diffs for Windows and Max binary releases.
+*.exe binary
+*.mxe64 binary
+*.ico binary
