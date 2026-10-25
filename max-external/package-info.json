@@ -1,0 +1,22 @@
+{
+  "name": "organologic-merge",
+  "displayname": "Organologic Merge",
+  "author": "Valentin Leroux",
+  "authors": ["Valentin Leroux"],
+  "description": "Suppresses duplicate MIDI Note On messages and releases a note only after the matching final Note Off.",
+  "version": "0.1.0",
+  "max_version_min": "8.2.0",
+  "max_version_max": "none",
+  "os": {
+    "windows": {
+      "platform": ["x64"],
+      "min_version": "10"
+    }
+  },
+  "package_extra": {
+    "reverse_domain": "fr.organologic",
+    "copyright": "Copyright © 2026 Valentin Leroux"
+  },
+  "tags": ["midi", "notes", "utility"],
+  "website": "https://www.organologic.fr"
+}
